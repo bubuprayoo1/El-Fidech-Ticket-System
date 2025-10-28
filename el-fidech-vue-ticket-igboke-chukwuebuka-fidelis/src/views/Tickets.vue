@@ -1,0 +1,1 @@
+<template><div><div class='card'><h3>Ticket Management</h3></div><p>Tickets stored in localStorage</p></div></template><script>export default{}</script>

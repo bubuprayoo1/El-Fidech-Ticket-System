@@ -1,0 +1,1 @@
+<template><div><div class='card'><h3>Dashboard</h3></div><router-link to='/tickets' class='btn'>Manage Tickets</router-link></div></template>

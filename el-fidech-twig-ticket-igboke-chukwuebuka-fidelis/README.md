@@ -1,0 +1,1 @@
+Twig templates (static). Open templates in a Twig environment or preview as HTML.

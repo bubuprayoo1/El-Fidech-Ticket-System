@@ -1,0 +1,1 @@
+<template><div class='card'><h1>Welcome to Ticket System</h1><p>Manage tickets quickly.</p><a href='/auth' class='btn btn-primary'>Login</a></div></template>
