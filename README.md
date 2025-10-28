@@ -1,2 +1,11 @@
-# El-Fidech-Ticket-System
-Stage 2 Frontend Task – React, Vue, and Twig Ticket System
+# React version (Ticket System)
+
+Run:
+
+```
+cd el-fidech-react-ticket-igboke-chukwuebuka-fidelis
+npm install
+npm run dev
+```
+
+Demo login: user@example.com / 12345
